@@ -28,3 +28,38 @@ npm start
 ```
 
 ## 📁 Project Structure
+
+src/
+├── components/
+│   ├── Header.js
+│   ├── Home.js
+│   ├── About.js
+│   ├── Menu.js
+│   ├── Gallery.js
+│   └── Footer.js
+├── styles/
+│   └── globals.css
+└── App.js
+
+## 🎯 Pages
+
+- **Home** — Landing hero section
+- **About** — Cafe story and mission
+- **Menu** — Food and beverage offerings
+- **Gallery** — Photo showcase
+- **Contact** — Location and contact info
+
+## 📱 Responsive Breakpoints
+
+- Mobile: 320px - 768px
+- Tablet: 768px - 1024px
+- Desktop: 1024px+
+
+## 🌐 Live Demo
+[Link to live site]
+
+## 👤 Author
+**Tanzim Sheikh** — [GitHub](https://github.com/Tanzim-sheikh)
+
+## ⭐ Support
+If you like this project, please give it a star!
